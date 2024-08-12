@@ -1,0 +1,22 @@
+testing: false
+
+# Site settings
+title: "Graduate Algebra, First Semester"
+page_title: "Graduate Algebra 1"
+course_title: "UPenn MATH 6020, Fall 2024."
+description: ""
+instructor: "Danny Krashen"
+email: "daniel.krashen+alg1@gmail.com"
+office: "DRL 3E6"
+office_hours: "TBD"
+lecture_schedule: "Mon/Wed 10:15-11:45"
+
+baseurl: "/alg1f24"
+url: "http://dkrashen.github.io"
+
+# url: "localhost:4000"
+# url: "http://math.dkrashen.org"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
