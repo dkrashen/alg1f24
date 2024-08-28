@@ -17,19 +17,6 @@ layout: default
       {% endif %}
 	</ul>
 
-{% for h in site.data.homework %}
-<div class="row well well-sm">
-	<div class="col-md-9">
-	  <b>{{h.title}}</b>: due {{h.due}}
-	</div>
-	<div class="col-md-3">
-    {% if h.filename %}
-		<a href="homework/{{ h.filename }}"><button type="button"
-    class="btn btn-lnk btn-spaced">pdf</button></a>
-    {% endif %}
-	</div>
-</div>
-{% endfor %}
 </div><!--/1 -->
 
 </div><!--/0 -->
