@@ -1,3 +1,6 @@
 - title: "Lecture 0 (8/28/2024)"
   description: "Introductions and a bestiary of algebraic objects"
   filename: "lecture0.pdf"
+- title: "Lecture 1 (9/9/2024)"
+  description: "Group basics: subgroups, normality, actions, some counting"
+  filename: "lecture1.pdf"
